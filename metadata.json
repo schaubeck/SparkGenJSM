@@ -1,0 +1,5 @@
+{
+  "name": "SparkGen - Generador de Ideas con IA",
+  "description": "Una aplicación elegante y minimalista que utiliza Gemini para generar ideas creativas y visuales para cualquier tema.",
+  "requestFramePermissions": []
+}
